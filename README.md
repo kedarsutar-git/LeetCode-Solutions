@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/kedarsutar-git/LeetCode-Solutions/tree/master/0002-add-two-numbers) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/kedarsutar-git/LeetCode-Solutions/tree/master/0083-remove-duplicates-from-sorted-list) |
+| [0203-remove-linked-list-elements](https://github.com/kedarsutar-git/LeetCode-Solutions/tree/master/0203-remove-linked-list-elements) |
 ## Math
 |  |
 | ------- |
@@ -28,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/kedarsutar-git/LeetCode-Solutions/tree/master/0002-add-two-numbers) |
+| [0203-remove-linked-list-elements](https://github.com/kedarsutar-git/LeetCode-Solutions/tree/master/0203-remove-linked-list-elements) |
 | [0342-power-of-four](https://github.com/kedarsutar-git/LeetCode-Solutions/tree/master/0342-power-of-four) |
 ## Binary Search
 |  |
