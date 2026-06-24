@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/kedarsutar-git/LeetCode-Solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/kedarsutar-git/LeetCode-Solutions/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/kedarsutar-git/LeetCode-Solutions/tree/master/0392-is-subsequence) |
 | [0541-reverse-string-ii](https://github.com/kedarsutar-git/LeetCode-Solutions/tree/master/0541-reverse-string-ii) |
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/kedarsutar-git/LeetCode-Solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/kedarsutar-git/LeetCode-Solutions/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/kedarsutar-git/LeetCode-Solutions/tree/master/0392-is-subsequence) |
 | [0541-reverse-string-ii](https://github.com/kedarsutar-git/LeetCode-Solutions/tree/master/0541-reverse-string-ii) |
@@ -73,4 +75,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2810-faulty-keyboard](https://github.com/kedarsutar-git/LeetCode-Solutions/tree/master/2810-faulty-keyboard) |
 | [3823-reverse-letters-then-special-characters-in-a-string](https://github.com/kedarsutar-git/LeetCode-Solutions/tree/master/3823-reverse-letters-then-special-characters-in-a-string) |
+## String Matching
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/kedarsutar-git/LeetCode-Solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 <!---LeetCode Topics End-->
