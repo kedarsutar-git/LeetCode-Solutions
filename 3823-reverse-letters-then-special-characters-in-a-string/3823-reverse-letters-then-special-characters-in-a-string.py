@@ -3,6 +3,7 @@ class Solution:
         t = "abcdefghijklmnopqrstuvwxyz"
         x = "!@#$%^&*()"
 
+        # reverse Letters
         start = 0
         end = len(s)-1
         s = list(s)
@@ -19,7 +20,7 @@ class Solution:
             else:
                 end-=1
         
-
+        # reverse special characters
         start = 0
         end = len(s)-1
         while(start<end):
