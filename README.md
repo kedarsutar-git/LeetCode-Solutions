@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/kedarsutar-git/LeetCode-Solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/kedarsutar-git/LeetCode-Solutions/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/kedarsutar-git/LeetCode-Solutions/tree/master/0392-is-subsequence) |
+| [0434-number-of-segments-in-a-string](https://github.com/kedarsutar-git/LeetCode-Solutions/tree/master/0434-number-of-segments-in-a-string) |
 | [0541-reverse-string-ii](https://github.com/kedarsutar-git/LeetCode-Solutions/tree/master/0541-reverse-string-ii) |
 | [0917-reverse-only-letters](https://github.com/kedarsutar-git/LeetCode-Solutions/tree/master/0917-reverse-only-letters) |
 | [2810-faulty-keyboard](https://github.com/kedarsutar-git/LeetCode-Solutions/tree/master/2810-faulty-keyboard) |
