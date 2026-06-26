@@ -1,26 +1,28 @@
 class Solution:
     def validPalindrome(self, s: str) -> bool:
-        def palindrome(left,right):
-            while(left<right):
-                if(s[left]!=s[right]):
+        def is_palindrome(start,end):
+            while(start<end):
+                if(s[start]!=s[end]):
                     return False 
 
-                left +=1
-                right -=1
-
+                start +=1
+                end-=1
             return True 
 
-        left = 0
-        right = len(s)-1
+        start = 0
+        end = len(s)-1
 
-        while(left<right):
-            if(s[left]!=s[right]):
-                return palindrome(left+1,right) or palindrome(left,right-1)
+        while(start<end):
+            if(s[start]!=s[end]):
+                return is_palindrome(start+1,end) or is_palindrome(start,end-1)
 
-            left +=1
-            right -=1
+            start +=1
+            end -=1
 
         return True 
+
+
+        
                         
             
         
