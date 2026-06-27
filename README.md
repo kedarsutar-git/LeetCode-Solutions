@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/kedarsutar-git/LeetCode-Solutions/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/kedarsutar-git/LeetCode-Solutions/tree/master/0004-median-of-two-sorted-arrays) |
+| [0054-spiral-matrix](https://github.com/kedarsutar-git/LeetCode-Solutions/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/kedarsutar-git/LeetCode-Solutions/tree/master/0059-spiral-matrix-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/kedarsutar-git/LeetCode-Solutions/tree/master/0628-maximum-product-of-three-numbers) |
 ## Hash Table
@@ -86,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/kedarsutar-git/LeetCode-Solutions/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/kedarsutar-git/LeetCode-Solutions/tree/master/0059-spiral-matrix-ii) |
 | [2810-faulty-keyboard](https://github.com/kedarsutar-git/LeetCode-Solutions/tree/master/2810-faulty-keyboard) |
 | [3823-reverse-letters-then-special-characters-in-a-string](https://github.com/kedarsutar-git/LeetCode-Solutions/tree/master/3823-reverse-letters-then-special-characters-in-a-string) |
@@ -96,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/kedarsutar-git/LeetCode-Solutions/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/kedarsutar-git/LeetCode-Solutions/tree/master/0059-spiral-matrix-ii) |
 ## Greedy
 |  |
