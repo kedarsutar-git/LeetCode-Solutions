@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/kedarsutar-git/LeetCode-Solutions/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/kedarsutar-git/LeetCode-Solutions/tree/master/0004-median-of-two-sorted-arrays) |
+| [0035-search-insert-position](https://github.com/kedarsutar-git/LeetCode-Solutions/tree/master/0035-search-insert-position) |
 | [0054-spiral-matrix](https://github.com/kedarsutar-git/LeetCode-Solutions/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/kedarsutar-git/LeetCode-Solutions/tree/master/0059-spiral-matrix-ii) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/kedarsutar-git/LeetCode-Solutions/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
@@ -43,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/kedarsutar-git/LeetCode-Solutions/tree/master/0004-median-of-two-sorted-arrays) |
+| [0035-search-insert-position](https://github.com/kedarsutar-git/LeetCode-Solutions/tree/master/0035-search-insert-position) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/kedarsutar-git/LeetCode-Solutions/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0704-binary-search](https://github.com/kedarsutar-git/LeetCode-Solutions/tree/master/0704-binary-search) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/kedarsutar-git/LeetCode-Solutions/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
