@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1539-kth-missing-positive-number](https://github.com/kedarsutar-git/LeetCode-Solutions/tree/master/1539-kth-missing-positive-number) |
 | [1552-magnetic-force-between-two-balls](https://github.com/kedarsutar-git/LeetCode-Solutions/tree/master/1552-magnetic-force-between-two-balls) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/kedarsutar-git/LeetCode-Solutions/tree/master/2089-find-target-indices-after-sorting-array) |
+| [2226-maximum-candies-allocated-to-k-children](https://github.com/kedarsutar-git/LeetCode-Solutions/tree/master/2226-maximum-candies-allocated-to-k-children) |
 | [2239-find-closest-number-to-zero](https://github.com/kedarsutar-git/LeetCode-Solutions/tree/master/2239-find-closest-number-to-zero) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/kedarsutar-git/LeetCode-Solutions/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [2560-house-robber-iv](https://github.com/kedarsutar-git/LeetCode-Solutions/tree/master/2560-house-robber-iv) |
@@ -81,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1539-kth-missing-positive-number](https://github.com/kedarsutar-git/LeetCode-Solutions/tree/master/1539-kth-missing-positive-number) |
 | [1552-magnetic-force-between-two-balls](https://github.com/kedarsutar-git/LeetCode-Solutions/tree/master/1552-magnetic-force-between-two-balls) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/kedarsutar-git/LeetCode-Solutions/tree/master/2089-find-target-indices-after-sorting-array) |
+| [2226-maximum-candies-allocated-to-k-children](https://github.com/kedarsutar-git/LeetCode-Solutions/tree/master/2226-maximum-candies-allocated-to-k-children) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/kedarsutar-git/LeetCode-Solutions/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [2560-house-robber-iv](https://github.com/kedarsutar-git/LeetCode-Solutions/tree/master/2560-house-robber-iv) |
 ## Divide and Conquer
