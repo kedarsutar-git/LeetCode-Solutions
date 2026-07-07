@@ -7,9 +7,9 @@ class Solution:
             ans = ans ^ num
 
         return ans   
+'''
 
-        '''  
-           
+        
 class Solution:
     def singleNumber(self, nums: List[int]) -> int:
         Map = {}
@@ -26,5 +26,4 @@ class Solution:
                 ans = key
 
         return ans 
-
 
