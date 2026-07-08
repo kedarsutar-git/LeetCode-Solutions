@@ -1,20 +1,20 @@
 class Solution:
     def singleNumber(self, nums: List[int]) -> int:
-        Map = {}
+        count_map = {}
         for num in nums:
-            if num in Map:
-                Map[num]+=1
+            if num in count_map:
+                count_map[num]+=1
 
             else:
-                Map[num]=1
+                count_map[num]=1
 
         ans = 0
-        for key,value in Map.items():
+        for key,value in count_map.items():
             if(value==1):
                 ans = key
 
         return ans 
-                            
+
 
 
             
