@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/kedarsutar-git/LeetCode-Solutions/tree/master/0162-find-peak-element) |
 | [0169-majority-element](https://github.com/kedarsutar-git/LeetCode-Solutions/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/kedarsutar-git/LeetCode-Solutions/tree/master/0189-rotate-array) |
+| [0204-count-primes](https://github.com/kedarsutar-git/LeetCode-Solutions/tree/master/0204-count-primes) |
 | [0217-contains-duplicate](https://github.com/kedarsutar-git/LeetCode-Solutions/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/kedarsutar-git/LeetCode-Solutions/tree/master/0283-move-zeroes) |
 | [0347-top-k-frequent-elements](https://github.com/kedarsutar-git/LeetCode-Solutions/tree/master/0347-top-k-frequent-elements) |
@@ -71,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/kedarsutar-git/LeetCode-Solutions/tree/master/0013-roman-to-integer) |
 | [0029-divide-two-integers](https://github.com/kedarsutar-git/LeetCode-Solutions/tree/master/0029-divide-two-integers) |
 | [0189-rotate-array](https://github.com/kedarsutar-git/LeetCode-Solutions/tree/master/0189-rotate-array) |
+| [0204-count-primes](https://github.com/kedarsutar-git/LeetCode-Solutions/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/kedarsutar-git/LeetCode-Solutions/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/kedarsutar-git/LeetCode-Solutions/tree/master/0342-power-of-four) |
 | [0628-maximum-product-of-three-numbers](https://github.com/kedarsutar-git/LeetCode-Solutions/tree/master/0628-maximum-product-of-three-numbers) |
@@ -208,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Enumeration
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/kedarsutar-git/LeetCode-Solutions/tree/master/0204-count-primes) |
 | [2951-find-the-peaks](https://github.com/kedarsutar-git/LeetCode-Solutions/tree/master/2951-find-the-peaks) |
 ## Backtracking
 |  |
@@ -237,4 +240,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/kedarsutar-git/LeetCode-Solutions/tree/master/0347-top-k-frequent-elements) |
+## Number Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/kedarsutar-git/LeetCode-Solutions/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->
