@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0540-single-element-in-a-sorted-array](https://github.com/kedarsutar-git/LeetCode-Solutions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0575-distribute-candies](https://github.com/kedarsutar-git/LeetCode-Solutions/tree/master/0575-distribute-candies) |
 | [0628-maximum-product-of-three-numbers](https://github.com/kedarsutar-git/LeetCode-Solutions/tree/master/0628-maximum-product-of-three-numbers) |
+| [0643-maximum-average-subarray-i](https://github.com/kedarsutar-git/LeetCode-Solutions/tree/master/0643-maximum-average-subarray-i) |
 | [0704-binary-search](https://github.com/kedarsutar-git/LeetCode-Solutions/tree/master/0704-binary-search) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/kedarsutar-git/LeetCode-Solutions/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0875-koko-eating-bananas](https://github.com/kedarsutar-git/LeetCode-Solutions/tree/master/0875-koko-eating-bananas) |
@@ -244,4 +245,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/kedarsutar-git/LeetCode-Solutions/tree/master/0204-count-primes) |
+## Sliding Window
+|  |
+| ------- |
+| [0643-maximum-average-subarray-i](https://github.com/kedarsutar-git/LeetCode-Solutions/tree/master/0643-maximum-average-subarray-i) |
 <!---LeetCode Topics End-->
