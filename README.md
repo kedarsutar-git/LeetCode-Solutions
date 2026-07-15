@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2239-find-closest-number-to-zero](https://github.com/kedarsutar-git/LeetCode-Solutions/tree/master/2239-find-closest-number-to-zero) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/kedarsutar-git/LeetCode-Solutions/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [2560-house-robber-iv](https://github.com/kedarsutar-git/LeetCode-Solutions/tree/master/2560-house-robber-iv) |
+| [2799-count-complete-subarrays-in-an-array](https://github.com/kedarsutar-git/LeetCode-Solutions/tree/master/2799-count-complete-subarrays-in-an-array) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/kedarsutar-git/LeetCode-Solutions/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [2951-find-the-peaks](https://github.com/kedarsutar-git/LeetCode-Solutions/tree/master/2951-find-the-peaks) |
 ## Hash Table
@@ -73,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0992-subarrays-with-k-different-integers](https://github.com/kedarsutar-git/LeetCode-Solutions/tree/master/0992-subarrays-with-k-different-integers) |
 | [1248-count-number-of-nice-subarrays](https://github.com/kedarsutar-git/LeetCode-Solutions/tree/master/1248-count-number-of-nice-subarrays) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/kedarsutar-git/LeetCode-Solutions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [2799-count-complete-subarrays-in-an-array](https://github.com/kedarsutar-git/LeetCode-Solutions/tree/master/2799-count-complete-subarrays-in-an-array) |
 ## Linked List
 |  |
 | ------- |
@@ -284,4 +286,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/kedarsutar-git/LeetCode-Solutions/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/kedarsutar-git/LeetCode-Solutions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/kedarsutar-git/LeetCode-Solutions/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
+| [2799-count-complete-subarrays-in-an-array](https://github.com/kedarsutar-git/LeetCode-Solutions/tree/master/2799-count-complete-subarrays-in-an-array) |
 <!---LeetCode Topics End-->
