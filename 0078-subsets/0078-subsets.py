@@ -2,8 +2,7 @@ class Solution:
     def subsets(self,nums:List[int]) -> List[List[int]]:
         arr = []
         def subseq(nums,index,current):
-
-    
+            
             if(index==len(nums)):
                 arr.append(current)
                 return
