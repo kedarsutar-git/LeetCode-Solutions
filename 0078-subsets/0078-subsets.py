@@ -1,16 +1,21 @@
 class Solution:
-    def subsets(self, nums: List[int]) -> List[List[int]]:
-        n = len(nums)
-        subset = 1<<n
-        ans  = []
-        for num in range(subset):
-            temp = []
+    def subsets(self,nums:List[int]) -> List[List[int]]:
+        arr = []
+        def subseq(nums,index,current):
 
-            for i in range(n):
-                if(num & (1<<i)):
-                    temp.append(nums[i])
+    
+            if(index==len(nums)):
+                arr.append(current)
+                return
 
-            ans.append(temp)
-            
-        return ans 
+            subseq(nums,index+1,current+[nums[index]])    
+            subseq(nums,index+1,current)
+
+        subseq(nums,0,[])
+
+        return arr
+
+
+
+
         
