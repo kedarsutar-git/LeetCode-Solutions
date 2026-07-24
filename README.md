@@ -197,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0680-valid-palindrome-ii](https://github.com/kedarsutar-git/LeetCode-Solutions/tree/master/0680-valid-palindrome-ii) |
 | [0917-reverse-only-letters](https://github.com/kedarsutar-git/LeetCode-Solutions/tree/master/0917-reverse-only-letters) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/kedarsutar-git/LeetCode-Solutions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/kedarsutar-git/LeetCode-Solutions/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1768-merge-strings-alternately](https://github.com/kedarsutar-git/LeetCode-Solutions/tree/master/1768-merge-strings-alternately) |
 | [2810-faulty-keyboard](https://github.com/kedarsutar-git/LeetCode-Solutions/tree/master/2810-faulty-keyboard) |
 | [3823-reverse-letters-then-special-characters-in-a-string](https://github.com/kedarsutar-git/LeetCode-Solutions/tree/master/3823-reverse-letters-then-special-characters-in-a-string) |
@@ -314,6 +315,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/kedarsutar-git/LeetCode-Solutions/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/kedarsutar-git/LeetCode-Solutions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/kedarsutar-git/LeetCode-Solutions/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
+| [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/kedarsutar-git/LeetCode-Solutions/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1695-maximum-erasure-value](https://github.com/kedarsutar-git/LeetCode-Solutions/tree/master/1695-maximum-erasure-value) |
 | [2799-count-complete-subarrays-in-an-array](https://github.com/kedarsutar-git/LeetCode-Solutions/tree/master/2799-count-complete-subarrays-in-an-array) |
 <!---LeetCode Topics End-->
