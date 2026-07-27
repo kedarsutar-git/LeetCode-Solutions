@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/kedarsutar-git/LeetCode-Solutions/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/kedarsutar-git/LeetCode-Solutions/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/kedarsutar-git/LeetCode-Solutions/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/kedarsutar-git/LeetCode-Solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/kedarsutar-git/LeetCode-Solutions/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1539-kth-missing-positive-number](https://github.com/kedarsutar-git/LeetCode-Solutions/tree/master/1539-kth-missing-positive-number) |
 | [1552-magnetic-force-between-two-balls](https://github.com/kedarsutar-git/LeetCode-Solutions/tree/master/1552-magnetic-force-between-two-balls) |
@@ -227,6 +228,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/kedarsutar-git/LeetCode-Solutions/tree/master/0347-top-k-frequent-elements) |
 | [0389-find-the-difference](https://github.com/kedarsutar-git/LeetCode-Solutions/tree/master/0389-find-the-difference) |
 | [0628-maximum-product-of-three-numbers](https://github.com/kedarsutar-git/LeetCode-Solutions/tree/master/0628-maximum-product-of-three-numbers) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/kedarsutar-git/LeetCode-Solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1552-magnetic-force-between-two-balls](https://github.com/kedarsutar-git/LeetCode-Solutions/tree/master/1552-magnetic-force-between-two-balls) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/kedarsutar-git/LeetCode-Solutions/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/kedarsutar-git/LeetCode-Solutions/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
@@ -294,6 +296,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/kedarsutar-git/LeetCode-Solutions/tree/master/0347-top-k-frequent-elements) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/kedarsutar-git/LeetCode-Solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Bucket Sort
 |  |
 | ------- |
