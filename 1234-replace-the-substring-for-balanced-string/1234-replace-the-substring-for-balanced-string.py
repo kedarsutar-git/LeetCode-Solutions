@@ -11,10 +11,10 @@ class Solution:
         if (count_map["Q"] == target and count_map["W"] == target and count_map["E"] == target and count_map["R"] == target):
             return 0
 
-        left = 0
+        left,right = 0,0
         minlen = len(s)
 
-        for right in range(len(s)):
+        while(right<len(s)):
             count_map[s[right]] -= 1
 
             while (left <= right and count_map["Q"] <= target and count_map["W"] <= target and count_map["E"] <= target and count_map["R"] <= target):
@@ -22,5 +22,7 @@ class Solution:
                 minlen = min(minlen, right - left + 1)
                 count_map[s[left]] += 1
                 left += 1
+            right +=1
+
 
         return minlen
