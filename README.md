@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2090-k-radius-subarray-averages](https://github.com/kedarsutar-git/LeetCode-Solutions/tree/master/2090-k-radius-subarray-averages) |
 | [2226-maximum-candies-allocated-to-k-children](https://github.com/kedarsutar-git/LeetCode-Solutions/tree/master/2226-maximum-candies-allocated-to-k-children) |
 | [2239-find-closest-number-to-zero](https://github.com/kedarsutar-git/LeetCode-Solutions/tree/master/2239-find-closest-number-to-zero) |
+| [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/kedarsutar-git/LeetCode-Solutions/tree/master/2441-largest-positive-integer-that-exists-with-its-negative) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/kedarsutar-git/LeetCode-Solutions/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/kedarsutar-git/LeetCode-Solutions/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [2537-count-the-number-of-good-subarrays](https://github.com/kedarsutar-git/LeetCode-Solutions/tree/master/2537-count-the-number-of-good-subarrays) |
@@ -97,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/kedarsutar-git/LeetCode-Solutions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/kedarsutar-git/LeetCode-Solutions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1695-maximum-erasure-value](https://github.com/kedarsutar-git/LeetCode-Solutions/tree/master/1695-maximum-erasure-value) |
+| [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/kedarsutar-git/LeetCode-Solutions/tree/master/2441-largest-positive-integer-that-exists-with-its-negative) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/kedarsutar-git/LeetCode-Solutions/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2537-count-the-number-of-good-subarrays](https://github.com/kedarsutar-git/LeetCode-Solutions/tree/master/2537-count-the-number-of-good-subarrays) |
 | [2799-count-complete-subarrays-in-an-array](https://github.com/kedarsutar-git/LeetCode-Solutions/tree/master/2799-count-complete-subarrays-in-an-array) |
@@ -196,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0844-backspace-string-compare](https://github.com/kedarsutar-git/LeetCode-Solutions/tree/master/0844-backspace-string-compare) |
 | [0917-reverse-only-letters](https://github.com/kedarsutar-git/LeetCode-Solutions/tree/master/0917-reverse-only-letters) |
 | [1768-merge-strings-alternately](https://github.com/kedarsutar-git/LeetCode-Solutions/tree/master/1768-merge-strings-alternately) |
+| [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/kedarsutar-git/LeetCode-Solutions/tree/master/2441-largest-positive-integer-that-exists-with-its-negative) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/kedarsutar-git/LeetCode-Solutions/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [3823-reverse-letters-then-special-characters-in-a-string](https://github.com/kedarsutar-git/LeetCode-Solutions/tree/master/3823-reverse-letters-then-special-characters-in-a-string) |
 ## String
@@ -250,6 +253,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/kedarsutar-git/LeetCode-Solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1552-magnetic-force-between-two-balls](https://github.com/kedarsutar-git/LeetCode-Solutions/tree/master/1552-magnetic-force-between-two-balls) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/kedarsutar-git/LeetCode-Solutions/tree/master/2089-find-target-indices-after-sorting-array) |
+| [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/kedarsutar-git/LeetCode-Solutions/tree/master/2441-largest-positive-integer-that-exists-with-its-negative) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/kedarsutar-git/LeetCode-Solutions/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## Simulation
 |  |
