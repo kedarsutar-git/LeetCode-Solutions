@@ -1,7 +1,30 @@
 class Solution:
     def isValid(self, s: str) -> bool:
         stack = []
-        brac = {")":"(","]":"[","}":"{"}
+        for char in s:
+            if char in "{([":
+                stack.append(char)
+            
+            else:
+                if not stack:
+                    return False
+
+                top = stack.pop()
+
+                if (char==")" and top=="(" or char=="}" and top=="{" or char=="]" and top=="["):
+                    continue 
+
+                else:
+                    return False 
+        
+        return not stack 
+
+
+
+'''
+class Solution:
+    def isValid(self, s: str) -> bool:
+        stack = []
 
         for i in range(len(s)):
             
@@ -14,7 +37,7 @@ class Solution:
             
             else:  # for closing Braket
                 if(len(stack)!=0):
-                    top = stack[-1]
+                    top = stack[-1]  # top value in the stack 
 
                     if(char==")" and top =="(" or char=="}" and top=="{" or char=="]" and top=="[" ):
                         stack.pop()
@@ -30,7 +53,7 @@ class Solution:
         
         else:
             return False
-
+'''
     
         
 
