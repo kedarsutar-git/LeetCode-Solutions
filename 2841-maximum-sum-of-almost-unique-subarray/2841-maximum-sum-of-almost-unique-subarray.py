@@ -13,8 +13,6 @@ class Solution:
             else:
                 count_map[nums[right]] = 1
 
-
-
             if(right-left+1==k):
                 if(len(count_map)>=m):
                     maxsum = max(maxsum,currentsum)
