@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0410-split-array-largest-sum](https://github.com/kedarsutar-git/LeetCode-Solutions/tree/master/0410-split-array-largest-sum) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/kedarsutar-git/LeetCode-Solutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/kedarsutar-git/LeetCode-Solutions/tree/master/0485-max-consecutive-ones) |
+| [0496-next-greater-element-i](https://github.com/kedarsutar-git/LeetCode-Solutions/tree/master/0496-next-greater-element-i) |
 | [0540-single-element-in-a-sorted-array](https://github.com/kedarsutar-git/LeetCode-Solutions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/kedarsutar-git/LeetCode-Solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0575-distribute-candies](https://github.com/kedarsutar-git/LeetCode-Solutions/tree/master/0575-distribute-candies) |
@@ -94,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/kedarsutar-git/LeetCode-Solutions/tree/master/0389-find-the-difference) |
 | [0424-longest-repeating-character-replacement](https://github.com/kedarsutar-git/LeetCode-Solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/kedarsutar-git/LeetCode-Solutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0496-next-greater-element-i](https://github.com/kedarsutar-git/LeetCode-Solutions/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/kedarsutar-git/LeetCode-Solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0575-distribute-candies](https://github.com/kedarsutar-git/LeetCode-Solutions/tree/master/0575-distribute-candies) |
 | [0930-binary-subarrays-with-sum](https://github.com/kedarsutar-git/LeetCode-Solutions/tree/master/0930-binary-subarrays-with-sum) |
@@ -382,6 +384,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0155-min-stack](https://github.com/kedarsutar-git/LeetCode-Solutions/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/kedarsutar-git/LeetCode-Solutions/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/kedarsutar-git/LeetCode-Solutions/tree/master/0232-implement-queue-using-stacks) |
+| [0496-next-greater-element-i](https://github.com/kedarsutar-git/LeetCode-Solutions/tree/master/0496-next-greater-element-i) |
 | [0844-backspace-string-compare](https://github.com/kedarsutar-git/LeetCode-Solutions/tree/master/0844-backspace-string-compare) |
 ## Design
 |  |
@@ -393,4 +396,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/kedarsutar-git/LeetCode-Solutions/tree/master/0020-valid-parentheses) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0496-next-greater-element-i](https://github.com/kedarsutar-git/LeetCode-Solutions/tree/master/0496-next-greater-element-i) |
 <!---LeetCode Topics End-->
