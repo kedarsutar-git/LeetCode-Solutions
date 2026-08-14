@@ -1,17 +1,25 @@
 class Solution:
     def peakIndexInMountainArray(self, arr: List[int]) -> int:
-        maxnum = arr[0]
-        for i in range(1,len(arr)):
-            if arr[i]>maxnum:
-                maxnum = arr[i]
+        start = 1
+        end = len(arr)-2
 
-        for j in range(len(arr)):
-            if(arr[j]==maxnum):
-                ans = j
+        while(start<=end):
+            mid = start + (end - start)//2
+            if(arr[mid-1]<arr[mid] and arr[mid+1]<arr[mid]):
+                return mid
 
-        return ans
+            elif(arr[mid-1]<arr[mid]):
+                start = mid+1
+            
+            else:
+                end = mid-1
 
-                
+        return -1 
+
+
+
+
+                   
 
 
         
