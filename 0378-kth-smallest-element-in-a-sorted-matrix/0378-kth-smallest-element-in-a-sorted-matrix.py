@@ -1,19 +1,23 @@
 class Solution:
     def kthSmallest(self, matrix: List[List[int]], k: int) -> int:
-        left  = matrix[0][0]
-        right = matrix[-1][-1]
+        left  = matrix[0][0]  # smallest number in the matrix 
+        right = matrix[len(matrix)-1][len(matrix)-1] # largest number in the matrix 
 
         while(left<right):
             mid = left + (right-left)//2
 
-            s = 0
-            c = len(matrix)-1
-            for row in matrix:
-                while(c>=0 and row[c]>mid):
-                    c -=1
-                s += c+1
+            count = 0
+            row = len(matrix)-1
+            col = 0
+            while(row>=0 and col<len(matrix)):
+                if(matrix[row][col]<=mid):
+                    count += row + 1
+                    col += 1
+                
+                else:
+                    row -= 1
 
-            if(s<k):
+            if(count<k):
                 left = mid + 1
             
             else:
