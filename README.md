@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/kedarsutar-git/LeetCode-Solutions/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/kedarsutar-git/LeetCode-Solutions/tree/master/0283-move-zeroes) |
 | [0347-top-k-frequent-elements](https://github.com/kedarsutar-git/LeetCode-Solutions/tree/master/0347-top-k-frequent-elements) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/kedarsutar-git/LeetCode-Solutions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0410-split-array-largest-sum](https://github.com/kedarsutar-git/LeetCode-Solutions/tree/master/0410-split-array-largest-sum) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/kedarsutar-git/LeetCode-Solutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/kedarsutar-git/LeetCode-Solutions/tree/master/0485-max-consecutive-ones) |
@@ -154,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/kedarsutar-git/LeetCode-Solutions/tree/master/0162-find-peak-element) |
 | [0209-minimum-size-subarray-sum](https://github.com/kedarsutar-git/LeetCode-Solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0374-guess-number-higher-or-lower](https://github.com/kedarsutar-git/LeetCode-Solutions/tree/master/0374-guess-number-higher-or-lower) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/kedarsutar-git/LeetCode-Solutions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0410-split-array-largest-sum](https://github.com/kedarsutar-git/LeetCode-Solutions/tree/master/0410-split-array-largest-sum) |
 | [0540-single-element-in-a-sorted-array](https://github.com/kedarsutar-git/LeetCode-Solutions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0658-find-k-closest-elements](https://github.com/kedarsutar-git/LeetCode-Solutions/tree/master/0658-find-k-closest-elements) |
@@ -263,6 +265,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/kedarsutar-git/LeetCode-Solutions/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/kedarsutar-git/LeetCode-Solutions/tree/master/0217-contains-duplicate) |
 | [0347-top-k-frequent-elements](https://github.com/kedarsutar-git/LeetCode-Solutions/tree/master/0347-top-k-frequent-elements) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/kedarsutar-git/LeetCode-Solutions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0389-find-the-difference](https://github.com/kedarsutar-git/LeetCode-Solutions/tree/master/0389-find-the-difference) |
 | [0628-maximum-product-of-three-numbers](https://github.com/kedarsutar-git/LeetCode-Solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0658-find-k-closest-elements](https://github.com/kedarsutar-git/LeetCode-Solutions/tree/master/0658-find-k-closest-elements) |
@@ -288,6 +291,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0054-spiral-matrix](https://github.com/kedarsutar-git/LeetCode-Solutions/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/kedarsutar-git/LeetCode-Solutions/tree/master/0059-spiral-matrix-ii) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/kedarsutar-git/LeetCode-Solutions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/kedarsutar-git/LeetCode-Solutions/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 ## Greedy
 |  |
@@ -340,6 +344,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/kedarsutar-git/LeetCode-Solutions/tree/master/0347-top-k-frequent-elements) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/kedarsutar-git/LeetCode-Solutions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0658-find-k-closest-elements](https://github.com/kedarsutar-git/LeetCode-Solutions/tree/master/0658-find-k-closest-elements) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/kedarsutar-git/LeetCode-Solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Bucket Sort
