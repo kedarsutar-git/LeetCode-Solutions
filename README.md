@@ -136,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/kedarsutar-git/LeetCode-Solutions/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/kedarsutar-git/LeetCode-Solutions/tree/master/0342-power-of-four) |
 | [0628-maximum-product-of-three-numbers](https://github.com/kedarsutar-git/LeetCode-Solutions/tree/master/0628-maximum-product-of-three-numbers) |
+| [0668-kth-smallest-number-in-multiplication-table](https://github.com/kedarsutar-git/LeetCode-Solutions/tree/master/0668-kth-smallest-number-in-multiplication-table) |
 | [1248-count-number-of-nice-subarrays](https://github.com/kedarsutar-git/LeetCode-Solutions/tree/master/1248-count-number-of-nice-subarrays) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/kedarsutar-git/LeetCode-Solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 ## Recursion
@@ -161,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0410-split-array-largest-sum](https://github.com/kedarsutar-git/LeetCode-Solutions/tree/master/0410-split-array-largest-sum) |
 | [0540-single-element-in-a-sorted-array](https://github.com/kedarsutar-git/LeetCode-Solutions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0658-find-k-closest-elements](https://github.com/kedarsutar-git/LeetCode-Solutions/tree/master/0658-find-k-closest-elements) |
+| [0668-kth-smallest-number-in-multiplication-table](https://github.com/kedarsutar-git/LeetCode-Solutions/tree/master/0668-kth-smallest-number-in-multiplication-table) |
 | [0704-binary-search](https://github.com/kedarsutar-git/LeetCode-Solutions/tree/master/0704-binary-search) |
 | [0713-subarray-product-less-than-k](https://github.com/kedarsutar-git/LeetCode-Solutions/tree/master/0713-subarray-product-less-than-k) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/kedarsutar-git/LeetCode-Solutions/tree/master/0744-find-smallest-letter-greater-than-target) |
