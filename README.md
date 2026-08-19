@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/kedarsutar-git/LeetCode-Solutions/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1539-kth-missing-positive-number](https://github.com/kedarsutar-git/LeetCode-Solutions/tree/master/1539-kth-missing-positive-number) |
 | [1552-magnetic-force-between-two-balls](https://github.com/kedarsutar-git/LeetCode-Solutions/tree/master/1552-magnetic-force-between-two-balls) |
+| [1572-matrix-diagonal-sum](https://github.com/kedarsutar-git/LeetCode-Solutions/tree/master/1572-matrix-diagonal-sum) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/kedarsutar-git/LeetCode-Solutions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1695-maximum-erasure-value](https://github.com/kedarsutar-git/LeetCode-Solutions/tree/master/1695-maximum-erasure-value) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/kedarsutar-git/LeetCode-Solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -299,6 +300,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0059-spiral-matrix-ii](https://github.com/kedarsutar-git/LeetCode-Solutions/tree/master/0059-spiral-matrix-ii) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/kedarsutar-git/LeetCode-Solutions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/kedarsutar-git/LeetCode-Solutions/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
+| [1572-matrix-diagonal-sum](https://github.com/kedarsutar-git/LeetCode-Solutions/tree/master/1572-matrix-diagonal-sum) |
 ## Greedy
 |  |
 | ------- |
