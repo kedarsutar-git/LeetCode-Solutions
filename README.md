@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2090-k-radius-subarray-averages](https://github.com/kedarsutar-git/LeetCode-Solutions/tree/master/2090-k-radius-subarray-averages) |
 | [2226-maximum-candies-allocated-to-k-children](https://github.com/kedarsutar-git/LeetCode-Solutions/tree/master/2226-maximum-candies-allocated-to-k-children) |
 | [2239-find-closest-number-to-zero](https://github.com/kedarsutar-git/LeetCode-Solutions/tree/master/2239-find-closest-number-to-zero) |
+| [2319-check-if-matrix-is-x-matrix](https://github.com/kedarsutar-git/LeetCode-Solutions/tree/master/2319-check-if-matrix-is-x-matrix) |
 | [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/kedarsutar-git/LeetCode-Solutions/tree/master/2441-largest-positive-integer-that-exists-with-its-negative) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/kedarsutar-git/LeetCode-Solutions/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/kedarsutar-git/LeetCode-Solutions/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
@@ -310,6 +311,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/kedarsutar-git/LeetCode-Solutions/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1380-lucky-numbers-in-a-matrix](https://github.com/kedarsutar-git/LeetCode-Solutions/tree/master/1380-lucky-numbers-in-a-matrix) |
 | [1572-matrix-diagonal-sum](https://github.com/kedarsutar-git/LeetCode-Solutions/tree/master/1572-matrix-diagonal-sum) |
+| [2319-check-if-matrix-is-x-matrix](https://github.com/kedarsutar-git/LeetCode-Solutions/tree/master/2319-check-if-matrix-is-x-matrix) |
 ## Greedy
 |  |
 | ------- |
