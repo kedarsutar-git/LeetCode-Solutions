@@ -258,6 +258,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2024-maximize-the-confusion-of-an-exam](https://github.com/kedarsutar-git/LeetCode-Solutions/tree/master/2024-maximize-the-confusion-of-an-exam) |
 | [2379-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/kedarsutar-git/LeetCode-Solutions/tree/master/2379-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2810-faulty-keyboard](https://github.com/kedarsutar-git/LeetCode-Solutions/tree/master/2810-faulty-keyboard) |
+| [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/kedarsutar-git/LeetCode-Solutions/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3823-reverse-letters-then-special-characters-in-a-string](https://github.com/kedarsutar-git/LeetCode-Solutions/tree/master/3823-reverse-letters-then-special-characters-in-a-string) |
 ## Dynamic Programming
 |  |
@@ -413,6 +414,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2653-sliding-subarray-beauty](https://github.com/kedarsutar-git/LeetCode-Solutions/tree/master/2653-sliding-subarray-beauty) |
 | [2799-count-complete-subarrays-in-an-array](https://github.com/kedarsutar-git/LeetCode-Solutions/tree/master/2799-count-complete-subarrays-in-an-array) |
 | [2841-maximum-sum-of-almost-unique-subarray](https://github.com/kedarsutar-git/LeetCode-Solutions/tree/master/2841-maximum-sum-of-almost-unique-subarray) |
+| [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/kedarsutar-git/LeetCode-Solutions/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/kedarsutar-git/LeetCode-Solutions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2962-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/kedarsutar-git/LeetCode-Solutions/tree/master/2962-count-subarrays-where-max-element-appears-at-least-k-times) |
 ## Stack
