@@ -252,6 +252,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/kedarsutar-git/LeetCode-Solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/kedarsutar-git/LeetCode-Solutions/tree/master/0389-find-the-difference) |
 | [0392-is-subsequence](https://github.com/kedarsutar-git/LeetCode-Solutions/tree/master/0392-is-subsequence) |
+| [0402-remove-k-digits](https://github.com/kedarsutar-git/LeetCode-Solutions/tree/master/0402-remove-k-digits) |
 | [0424-longest-repeating-character-replacement](https://github.com/kedarsutar-git/LeetCode-Solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [0434-number-of-segments-in-a-string](https://github.com/kedarsutar-git/LeetCode-Solutions/tree/master/0434-number-of-segments-in-a-string) |
 | [0541-reverse-string-ii](https://github.com/kedarsutar-git/LeetCode-Solutions/tree/master/0541-reverse-string-ii) |
@@ -330,6 +331,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0045-jump-game-ii](https://github.com/kedarsutar-git/LeetCode-Solutions/tree/master/0045-jump-game-ii) |
+| [0402-remove-k-digits](https://github.com/kedarsutar-git/LeetCode-Solutions/tree/master/0402-remove-k-digits) |
 | [0410-split-array-largest-sum](https://github.com/kedarsutar-git/LeetCode-Solutions/tree/master/0410-split-array-largest-sum) |
 | [0680-valid-palindrome-ii](https://github.com/kedarsutar-git/LeetCode-Solutions/tree/master/0680-valid-palindrome-ii) |
 | [2560-house-robber-iv](https://github.com/kedarsutar-git/LeetCode-Solutions/tree/master/2560-house-robber-iv) |
@@ -436,6 +438,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0155-min-stack](https://github.com/kedarsutar-git/LeetCode-Solutions/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/kedarsutar-git/LeetCode-Solutions/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/kedarsutar-git/LeetCode-Solutions/tree/master/0232-implement-queue-using-stacks) |
+| [0402-remove-k-digits](https://github.com/kedarsutar-git/LeetCode-Solutions/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/kedarsutar-git/LeetCode-Solutions/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/kedarsutar-git/LeetCode-Solutions/tree/master/0503-next-greater-element-ii) |
 | [0735-asteroid-collision](https://github.com/kedarsutar-git/LeetCode-Solutions/tree/master/0735-asteroid-collision) |
@@ -456,6 +459,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/kedarsutar-git/LeetCode-Solutions/tree/master/0042-trapping-rain-water) |
+| [0402-remove-k-digits](https://github.com/kedarsutar-git/LeetCode-Solutions/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/kedarsutar-git/LeetCode-Solutions/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/kedarsutar-git/LeetCode-Solutions/tree/master/0503-next-greater-element-ii) |
 | [0907-sum-of-subarray-minimums](https://github.com/kedarsutar-git/LeetCode-Solutions/tree/master/0907-sum-of-subarray-minimums) |
