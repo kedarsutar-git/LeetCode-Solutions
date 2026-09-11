@@ -164,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/kedarsutar-git/LeetCode-Solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0668-kth-smallest-number-in-multiplication-table](https://github.com/kedarsutar-git/LeetCode-Solutions/tree/master/0668-kth-smallest-number-in-multiplication-table) |
 | [1248-count-number-of-nice-subarrays](https://github.com/kedarsutar-git/LeetCode-Solutions/tree/master/1248-count-number-of-nice-subarrays) |
+| [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/kedarsutar-git/LeetCode-Solutions/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/kedarsutar-git/LeetCode-Solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/kedarsutar-git/LeetCode-Solutions/tree/master/2520-count-the-digits-that-divide-a-number) |
 | [2894-divisible-and-non-divisible-sums-difference](https://github.com/kedarsutar-git/LeetCode-Solutions/tree/master/2894-divisible-and-non-divisible-sums-difference) |
