@@ -1,13 +1,14 @@
 class Solution:
     def capitalizeTitle(self, title: str) -> str:
         words = title.split()
-        capitalized_words = []
-        
+        word_title = []
         for word in words:
-            if(len(word)) <= 2:
-                capitalized_words.append(word.lower())
+            if(len(word)<=2):
+                word_title.append(word.lower())
+
             else:
-                capitalized_words.append(word.capitalize())
-        
-        return ' '.join(capitalized_words)
+                word_title.append(word.capitalize())
+
+                
+        return " ".join(word_title)
         
