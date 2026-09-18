@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/kedarsutar-git/LeetCode-Solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0643-maximum-average-subarray-i](https://github.com/kedarsutar-git/LeetCode-Solutions/tree/master/0643-maximum-average-subarray-i) |
 | [0658-find-k-closest-elements](https://github.com/kedarsutar-git/LeetCode-Solutions/tree/master/0658-find-k-closest-elements) |
+| [0682-baseball-game](https://github.com/kedarsutar-git/LeetCode-Solutions/tree/master/0682-baseball-game) |
 | [0704-binary-search](https://github.com/kedarsutar-git/LeetCode-Solutions/tree/master/0704-binary-search) |
 | [0713-subarray-product-less-than-k](https://github.com/kedarsutar-git/LeetCode-Solutions/tree/master/0713-subarray-product-less-than-k) |
 | [0735-asteroid-collision](https://github.com/kedarsutar-git/LeetCode-Solutions/tree/master/0735-asteroid-collision) |
@@ -349,6 +350,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0059-spiral-matrix-ii](https://github.com/kedarsutar-git/LeetCode-Solutions/tree/master/0059-spiral-matrix-ii) |
 | [0258-add-digits](https://github.com/kedarsutar-git/LeetCode-Solutions/tree/master/0258-add-digits) |
 | [0566-reshape-the-matrix](https://github.com/kedarsutar-git/LeetCode-Solutions/tree/master/0566-reshape-the-matrix) |
+| [0682-baseball-game](https://github.com/kedarsutar-git/LeetCode-Solutions/tree/master/0682-baseball-game) |
 | [0735-asteroid-collision](https://github.com/kedarsutar-git/LeetCode-Solutions/tree/master/0735-asteroid-collision) |
 | [0844-backspace-string-compare](https://github.com/kedarsutar-git/LeetCode-Solutions/tree/master/0844-backspace-string-compare) |
 | [0867-transpose-matrix](https://github.com/kedarsutar-git/LeetCode-Solutions/tree/master/0867-transpose-matrix) |
@@ -500,6 +502,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0402-remove-k-digits](https://github.com/kedarsutar-git/LeetCode-Solutions/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/kedarsutar-git/LeetCode-Solutions/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/kedarsutar-git/LeetCode-Solutions/tree/master/0503-next-greater-element-ii) |
+| [0682-baseball-game](https://github.com/kedarsutar-git/LeetCode-Solutions/tree/master/0682-baseball-game) |
 | [0735-asteroid-collision](https://github.com/kedarsutar-git/LeetCode-Solutions/tree/master/0735-asteroid-collision) |
 | [0844-backspace-string-compare](https://github.com/kedarsutar-git/LeetCode-Solutions/tree/master/0844-backspace-string-compare) |
 | [0901-online-stock-span](https://github.com/kedarsutar-git/LeetCode-Solutions/tree/master/0901-online-stock-span) |
