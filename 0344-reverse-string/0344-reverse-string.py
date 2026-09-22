@@ -1,9 +1,13 @@
 class Solution:
     def reverseString(self, s: List[str]) -> None:
-        stack = []
+        start = 0
+        end = len(s)-1
 
-        for ch in s:
-            stack.append(ch)
+        while(start<end):
+            s[start],s[end] = s[end],s[start]
 
-        for i in range(len(s)):
-            s[i] = stack.pop()
+            start += 1
+            end -= 1
+
+        return s
+        
