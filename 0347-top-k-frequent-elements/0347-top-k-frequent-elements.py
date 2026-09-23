@@ -9,14 +9,18 @@ class Solution:
             else:
                 count_map[num] = 1
 
-        top_keys = heapq.nlargest(k,count_map,key = count_map.get)
+        arr = []
+        for key,value in count_map.items():
+            arr.append([value,key])
 
-        return top_keys
+        arr.sort(reverse=True)
 
-            
+        ans = []
+        for i in range(k):
+            ans.append(arr[i][1])
 
 
-
+        return ans 
              
 
 
