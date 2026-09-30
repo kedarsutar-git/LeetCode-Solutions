@@ -5,9 +5,11 @@ class Solution:
         for i in range(len(seq)):
             if(seq[i]=="("):
                 depth += 1
+
                 ans[i] = depth%2
+
             else:
-                ans[i] = depth%2
+                ans[i] = depth%2 
                 depth -= 1
 
-        return ans         
+        return ans      
