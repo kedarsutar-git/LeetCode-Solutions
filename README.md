@@ -97,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2239-find-closest-number-to-zero](https://github.com/kedarsutar-git/LeetCode-Solutions/tree/master/2239-find-closest-number-to-zero) |
 | [2319-check-if-matrix-is-x-matrix](https://github.com/kedarsutar-git/LeetCode-Solutions/tree/master/2319-check-if-matrix-is-x-matrix) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/kedarsutar-git/LeetCode-Solutions/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
+| [2410-maximum-matching-of-players-with-trainers](https://github.com/kedarsutar-git/LeetCode-Solutions/tree/master/2410-maximum-matching-of-players-with-trainers) |
 | [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/kedarsutar-git/LeetCode-Solutions/tree/master/2441-largest-positive-integer-that-exists-with-its-negative) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/kedarsutar-git/LeetCode-Solutions/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/kedarsutar-git/LeetCode-Solutions/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
@@ -277,6 +278,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0917-reverse-only-letters](https://github.com/kedarsutar-git/LeetCode-Solutions/tree/master/0917-reverse-only-letters) |
 | [1768-merge-strings-alternately](https://github.com/kedarsutar-git/LeetCode-Solutions/tree/master/1768-merge-strings-alternately) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/kedarsutar-git/LeetCode-Solutions/tree/master/2108-find-first-palindromic-string-in-the-array) |
+| [2410-maximum-matching-of-players-with-trainers](https://github.com/kedarsutar-git/LeetCode-Solutions/tree/master/2410-maximum-matching-of-players-with-trainers) |
 | [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/kedarsutar-git/LeetCode-Solutions/tree/master/2441-largest-positive-integer-that-exists-with-its-negative) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/kedarsutar-git/LeetCode-Solutions/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [3823-reverse-letters-then-special-characters-in-a-string](https://github.com/kedarsutar-git/LeetCode-Solutions/tree/master/3823-reverse-letters-then-special-characters-in-a-string) |
@@ -353,6 +355,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1552-magnetic-force-between-two-balls](https://github.com/kedarsutar-git/LeetCode-Solutions/tree/master/1552-magnetic-force-between-two-balls) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/kedarsutar-git/LeetCode-Solutions/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/kedarsutar-git/LeetCode-Solutions/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
+| [2410-maximum-matching-of-players-with-trainers](https://github.com/kedarsutar-git/LeetCode-Solutions/tree/master/2410-maximum-matching-of-players-with-trainers) |
 | [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/kedarsutar-git/LeetCode-Solutions/tree/master/2441-largest-positive-integer-that-exists-with-its-negative) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/kedarsutar-git/LeetCode-Solutions/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [2974-minimum-number-game](https://github.com/kedarsutar-git/LeetCode-Solutions/tree/master/2974-minimum-number-game) |
@@ -400,6 +403,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/kedarsutar-git/LeetCode-Solutions/tree/master/0455-assign-cookies) |
 | [0680-valid-palindrome-ii](https://github.com/kedarsutar-git/LeetCode-Solutions/tree/master/0680-valid-palindrome-ii) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/kedarsutar-git/LeetCode-Solutions/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
+| [2410-maximum-matching-of-players-with-trainers](https://github.com/kedarsutar-git/LeetCode-Solutions/tree/master/2410-maximum-matching-of-players-with-trainers) |
 | [2560-house-robber-iv](https://github.com/kedarsutar-git/LeetCode-Solutions/tree/master/2560-house-robber-iv) |
 ## Counting
 |  |
