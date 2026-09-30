@@ -6,7 +6,7 @@ class Solution:
         trainers = sorted(trainer)
         while(left<len(players) and right<len(trainers)):
             if(players[left]<=trainers[right]):
-                
+    
                 left += 1
 
             right += 1
