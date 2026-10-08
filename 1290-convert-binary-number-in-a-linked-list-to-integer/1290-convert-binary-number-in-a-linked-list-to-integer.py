@@ -7,12 +7,18 @@ class Solution:
     def getDecimalValue(self, head) -> int:
         arr = []
         current = head
-        Decimal = 0
+
         while(current is not None):
-            Decimal = Decimal*2+current.val
+            arr.append(current.val)
             current = current.next
 
-        return Decimal
+
+        Decimal = 0
+        for i in range(len(arr)):
+            Decimal = Decimal*2+arr[i]
+
+        return Decimal 
+
         
 
 
