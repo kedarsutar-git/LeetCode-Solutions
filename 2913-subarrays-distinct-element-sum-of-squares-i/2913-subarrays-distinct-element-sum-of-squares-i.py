@@ -1,5 +1,21 @@
 class Solution:
     def sumCounts(self, nums: List[int]) -> int:
+        s = set()
+        count = 0
+        sub_arr = []
+        for i in range(len(nums)):
+            for j in range(i+1,len(nums)+1):
+                sub_arr.append(nums[i:j])
+
+        for num in sub_arr:
+            s = set(num)
+            count += len(s)**2
+
+        return count
+        
+'''
+class Solution:
+    def sumCounts(self, nums: List[int]) -> int:
         count = 0
         s= set()
         all_subarray = []
@@ -15,7 +31,7 @@ class Solution:
             count += len(s)**2 
 
         return count
-
+'''
 '''
 class Solution:
     def sumCounts(self, nums: List[int]) -> int:
