@@ -19,3 +19,23 @@ class Solution:
             ans += curr
 
         return ans % 1_000_000_007
+
+'''
+# Brute force method 
+
+
+class Solution:
+    def sumCounts(self, nums: List[int]) -> int:
+        Mod = 10**9 + 7
+        count = 0 
+        
+        for i in range(len(nums)):
+            s = set()
+            for j in range(i,len(nums)):
+                s.add(nums[j])
+                count += len(s)**2
+                
+        return count % Mod
+
+        
+'''
