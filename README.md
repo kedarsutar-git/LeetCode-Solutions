@@ -182,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0460-lfu-cache](https://github.com/kedarsutar-git/LeetCode-Solutions/tree/master/0460-lfu-cache) |
 | [0876-middle-of-the-linked-list](https://github.com/kedarsutar-git/LeetCode-Solutions/tree/master/0876-middle-of-the-linked-list) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/kedarsutar-git/LeetCode-Solutions/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
+| [2487-remove-nodes-from-linked-list](https://github.com/kedarsutar-git/LeetCode-Solutions/tree/master/2487-remove-nodes-from-linked-list) |
 ## Math
 |  |
 | ------- |
@@ -221,6 +222,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0206-reverse-linked-list](https://github.com/kedarsutar-git/LeetCode-Solutions/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/kedarsutar-git/LeetCode-Solutions/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/kedarsutar-git/LeetCode-Solutions/tree/master/0342-power-of-four) |
+| [2487-remove-nodes-from-linked-list](https://github.com/kedarsutar-git/LeetCode-Solutions/tree/master/2487-remove-nodes-from-linked-list) |
 ## Binary Search
 |  |
 | ------- |
@@ -582,6 +584,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/kedarsutar-git/LeetCode-Solutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/kedarsutar-git/LeetCode-Solutions/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2104-sum-of-subarray-ranges](https://github.com/kedarsutar-git/LeetCode-Solutions/tree/master/2104-sum-of-subarray-ranges) |
+| [2487-remove-nodes-from-linked-list](https://github.com/kedarsutar-git/LeetCode-Solutions/tree/master/2487-remove-nodes-from-linked-list) |
 ## Design
 |  |
 | ------- |
@@ -613,6 +616,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0901-online-stock-span](https://github.com/kedarsutar-git/LeetCode-Solutions/tree/master/0901-online-stock-span) |
 | [0907-sum-of-subarray-minimums](https://github.com/kedarsutar-git/LeetCode-Solutions/tree/master/0907-sum-of-subarray-minimums) |
 | [2104-sum-of-subarray-ranges](https://github.com/kedarsutar-git/LeetCode-Solutions/tree/master/2104-sum-of-subarray-ranges) |
+| [2487-remove-nodes-from-linked-list](https://github.com/kedarsutar-git/LeetCode-Solutions/tree/master/2487-remove-nodes-from-linked-list) |
 ## Ternary Search
 |  |
 | ------- |
