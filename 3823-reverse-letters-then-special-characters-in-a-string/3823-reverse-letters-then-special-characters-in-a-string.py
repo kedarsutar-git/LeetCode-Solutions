@@ -1,44 +1,40 @@
 class Solution:
     def reverseByType(self, s: str) -> str:
         t = "abcdefghijklmnopqrstuvwxyz"
-        x = "!@#$%^&*()"
+        char = "!@#$%^&*()"
 
-        # reverse Letters
         start = 0
-        end = len(s)-1
-        s = list(s)
+        end = len(s) - 1
+        strarr = list(s)
+
         while(start<end):
-            if(s[start] in t and s[end] in t):
-                s[start],s[end] = s[end],s[start]
+            if(strarr[start] in t and strarr[end] in t):
+                strarr[start],strarr[end] = strarr[end],strarr[start]
 
-                start+=1
-                end  -=1
+                start += 1
+                end -= 1
 
-            elif(s[start] not in t):
-                start+=1
+            elif(strarr[start] not in t):
+                start += 1
 
             else:
-                end-=1
-        
-        # reverse special characters
+                end -= 1
+
+
         start = 0
-        end = len(s)-1
+        end = len(s) - 1
+
         while(start<end):
-            if(s[start] in x and s[end] in x):
-                 s[start],s[end] = s[end],s[start]
+            if(strarr[start] in char and strarr[end] in char):
+                strarr[start],strarr[end] = strarr[end],strarr[start]
 
-                 start +=1
-                 end-=1
+                start += 1
+                end -= 1
 
-            elif(s[start] not in x):
-                start+=1
+            elif(strarr[start] not in char):
+                start += 1
 
             else:
-                end-=1
+                end -= 1
 
-        return "".join(s)
-
-
-
-
-        
+        return "".join(strarr)
