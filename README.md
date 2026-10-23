@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0041-first-missing-positive](https://github.com/kedarsutar-git/LeetCode-Solutions/tree/master/0041-first-missing-positive) |
 | [0042-trapping-rain-water](https://github.com/kedarsutar-git/LeetCode-Solutions/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/kedarsutar-git/LeetCode-Solutions/tree/master/0045-jump-game-ii) |
+| [0046-permutations](https://github.com/kedarsutar-git/LeetCode-Solutions/tree/master/0046-permutations) |
 | [0053-maximum-subarray](https://github.com/kedarsutar-git/LeetCode-Solutions/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/kedarsutar-git/LeetCode-Solutions/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/kedarsutar-git/LeetCode-Solutions/tree/master/0055-jump-game) |
@@ -473,6 +474,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0046-permutations](https://github.com/kedarsutar-git/LeetCode-Solutions/tree/master/0046-permutations) |
 | [0078-subsets](https://github.com/kedarsutar-git/LeetCode-Solutions/tree/master/0078-subsets) |
 ## Prefix Sum
 |  |
