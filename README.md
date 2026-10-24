@@ -200,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0204-count-primes](https://github.com/kedarsutar-git/LeetCode-Solutions/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/kedarsutar-git/LeetCode-Solutions/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/kedarsutar-git/LeetCode-Solutions/tree/master/0258-add-digits) |
+| [0319-bulb-switcher](https://github.com/kedarsutar-git/LeetCode-Solutions/tree/master/0319-bulb-switcher) |
 | [0342-power-of-four](https://github.com/kedarsutar-git/LeetCode-Solutions/tree/master/0342-power-of-four) |
 | [0628-maximum-product-of-three-numbers](https://github.com/kedarsutar-git/LeetCode-Solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0668-kth-smallest-number-in-multiplication-table](https://github.com/kedarsutar-git/LeetCode-Solutions/tree/master/0668-kth-smallest-number-in-multiplication-table) |
@@ -678,4 +679,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/kedarsutar-git/LeetCode-Solutions/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/kedarsutar-git/LeetCode-Solutions/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
+## Brainteaser
+|  |
+| ------- |
+| [0319-bulb-switcher](https://github.com/kedarsutar-git/LeetCode-Solutions/tree/master/0319-bulb-switcher) |
 <!---LeetCode Topics End-->
