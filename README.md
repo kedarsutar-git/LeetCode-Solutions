@@ -130,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/kedarsutar-git/LeetCode-Solutions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2962-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/kedarsutar-git/LeetCode-Solutions/tree/master/2962-count-subarrays-where-max-element-appears-at-least-k-times) |
 | [2974-minimum-number-game](https://github.com/kedarsutar-git/LeetCode-Solutions/tree/master/2974-minimum-number-game) |
+| [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/kedarsutar-git/LeetCode-Solutions/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3232-find-if-digit-game-can-be-won](https://github.com/kedarsutar-git/LeetCode-Solutions/tree/master/3232-find-if-digit-game-can-be-won) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/kedarsutar-git/LeetCode-Solutions/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/kedarsutar-git/LeetCode-Solutions/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
