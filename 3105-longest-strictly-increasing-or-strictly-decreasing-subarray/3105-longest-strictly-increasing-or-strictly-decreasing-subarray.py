@@ -5,17 +5,17 @@ class Solution:
         ans = 1
 
         for i in range(1,len(nums)):
-            if nums[i]>nums[i-1]:
+            if nums[i-1]<nums[i]:
                 increasing += 1
-                decreasing  = 1
+                decreasing = 1
 
-            elif nums[i-1]>nums[i]:
+            elif nums[i]<nums[i-1]:
                 decreasing += 1
                 increasing = 1
 
             else:
-                decreasing = 1
                 increasing = 1
+                decreasing = 1
 
             ans = max(ans,decreasing,increasing)
 
