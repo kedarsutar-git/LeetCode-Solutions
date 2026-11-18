@@ -4,7 +4,7 @@ class Solution:
         count = 0
 
         for word in words:
-            if all(char in allowed for char in word):
+            if all(char in allowed_char for char in word):
                 count += 1
 
         return count 
