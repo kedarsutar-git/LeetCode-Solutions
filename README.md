@@ -376,6 +376,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1832-check-if-the-sentence-is-pangram](https://github.com/kedarsutar-git/LeetCode-Solutions/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/kedarsutar-git/LeetCode-Solutions/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2024-maximize-the-confusion-of-an-exam](https://github.com/kedarsutar-git/LeetCode-Solutions/tree/master/2024-maximize-the-confusion-of-an-exam) |
+| [2042-check-if-numbers-are-ascending-in-a-sentence](https://github.com/kedarsutar-git/LeetCode-Solutions/tree/master/2042-check-if-numbers-are-ascending-in-a-sentence) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/kedarsutar-git/LeetCode-Solutions/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2109-adding-spaces-to-a-string](https://github.com/kedarsutar-git/LeetCode-Solutions/tree/master/2109-adding-spaces-to-a-string) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/kedarsutar-git/LeetCode-Solutions/tree/master/2114-maximum-number-of-words-found-in-sentences) |
