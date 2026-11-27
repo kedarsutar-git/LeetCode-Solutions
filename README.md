@@ -380,6 +380,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/kedarsutar-git/LeetCode-Solutions/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/kedarsutar-git/LeetCode-Solutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/kedarsutar-git/LeetCode-Solutions/tree/master/1684-count-the-number-of-consistent-strings) |
+| [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/kedarsutar-git/LeetCode-Solutions/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1768-merge-strings-alternately](https://github.com/kedarsutar-git/LeetCode-Solutions/tree/master/1768-merge-strings-alternately) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/kedarsutar-git/LeetCode-Solutions/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/kedarsutar-git/LeetCode-Solutions/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
@@ -501,6 +502,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0680-valid-palindrome-ii](https://github.com/kedarsutar-git/LeetCode-Solutions/tree/master/0680-valid-palindrome-ii) |
 | [0860-lemonade-change](https://github.com/kedarsutar-git/LeetCode-Solutions/tree/master/0860-lemonade-change) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/kedarsutar-git/LeetCode-Solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/kedarsutar-git/LeetCode-Solutions/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/kedarsutar-git/LeetCode-Solutions/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2195-append-k-integers-with-minimal-sum](https://github.com/kedarsutar-git/LeetCode-Solutions/tree/master/2195-append-k-integers-with-minimal-sum) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/kedarsutar-git/LeetCode-Solutions/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
