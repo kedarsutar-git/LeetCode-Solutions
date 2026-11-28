@@ -147,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3701-compute-alternating-sum](https://github.com/kedarsutar-git/LeetCode-Solutions/tree/master/3701-compute-alternating-sum) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/kedarsutar-git/LeetCode-Solutions/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/kedarsutar-git/LeetCode-Solutions/tree/master/3727-maximum-alternating-sum-of-squares) |
+| [3731-find-missing-elements](https://github.com/kedarsutar-git/LeetCode-Solutions/tree/master/3731-find-missing-elements) |
 | [3875-construct-uniform-parity-array-i](https://github.com/kedarsutar-git/LeetCode-Solutions/tree/master/3875-construct-uniform-parity-array-i) |
 | [3903-smallest-stable-index-i](https://github.com/kedarsutar-git/LeetCode-Solutions/tree/master/3903-smallest-stable-index-i) |
 | [3925-concatenate-array-with-reverse](https://github.com/kedarsutar-git/LeetCode-Solutions/tree/master/3925-concatenate-array-with-reverse) |
@@ -196,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3471-find-the-largest-almost-missing-integer](https://github.com/kedarsutar-git/LeetCode-Solutions/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/kedarsutar-git/LeetCode-Solutions/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/kedarsutar-git/LeetCode-Solutions/tree/master/3718-smallest-missing-multiple-of-k) |
+| [3731-find-missing-elements](https://github.com/kedarsutar-git/LeetCode-Solutions/tree/master/3731-find-missing-elements) |
 | [3934-smallest-unique-subarray](https://github.com/kedarsutar-git/LeetCode-Solutions/tree/master/3934-smallest-unique-subarray) |
 ## Linked List
 |  |
@@ -460,6 +462,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2974-minimum-number-game](https://github.com/kedarsutar-git/LeetCode-Solutions/tree/master/2974-minimum-number-game) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/kedarsutar-git/LeetCode-Solutions/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/kedarsutar-git/LeetCode-Solutions/tree/master/3727-maximum-alternating-sum-of-squares) |
+| [3731-find-missing-elements](https://github.com/kedarsutar-git/LeetCode-Solutions/tree/master/3731-find-missing-elements) |
 ## Simulation
 |  |
 | ------- |
